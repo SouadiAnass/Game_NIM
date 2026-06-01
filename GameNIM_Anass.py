@@ -50,6 +50,7 @@ if __name__ == "__main__":
     gagnant = joueurs[tour].nom
     print(f"\n{gagnant} a gagné !")
 
+"""
 Résultat:
 
 Votre nom :  Anass
@@ -77,6 +78,8 @@ Anass, prenez 1 à 1 bâtons :  1
 | (1)
 Robot prend 2 bâtons
 Anass a gagné !
+"""
+
 
 Partie 2 — Version Avancée (POO avec héritage):
 
@@ -130,6 +133,7 @@ if __name__ == "__main__":
     partie = JeuNim(15)
     partie.lancer()
 
+"""
 Résultat:
 
 Votre nom :  Anass
@@ -155,4 +159,4 @@ Anass, prenez 1 à 3 bâtons :  2
 
 Robot a gagné !
 Fin
-
+"""
