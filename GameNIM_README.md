@@ -53,5 +53,3 @@ Anass Souadi
 ## Notes:
 
 This is a student project created for learning and practicing Python programming concepts.
-
-This is a student project created for learning and practicing Python programming concepts.
