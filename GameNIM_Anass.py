@@ -16,7 +16,7 @@ class Humain:
                 if 1 <= choix <= maxi:
                     return choix
             except ValueError:
-                pass
+                print("Vous avez taper une valeur invalide,veuiller vous entrer une autre valeur valide ! ")
 class Ordinateur:
 
     def __init__(self, nom):
